@@ -1,8 +1,8 @@
-# The Midnight theme
+# The Midnight-oil theme
 
 [![Build Status](https://travis-ci.org/pages-themes/midnight.svg?branch=master)](https://travis-ci.org/pages-themes/midnight) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-midnight.svg)](https://badge.fury.io/rb/jekyll-theme-midnight)
 
-*Midnight is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/midnight), or even [use it today](#usage).*
+*Midnight-oil is a Jekyll theme for based on [Midnight](http://pages-themes.github.io/midnight). Customized for the SSW project.
 
 ![Thumbnail of Midnight](thumbnail.png)
 
